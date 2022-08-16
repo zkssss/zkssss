@@ -25,4 +25,4 @@ Eat Sleep Programming
 </div>
     
 
-[![zkssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkssss&theme=THEME_NAME=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![zkssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkssss&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
